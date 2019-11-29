@@ -1,4 +1,4 @@
-package com.pechatkin.sbt.mytodo.presentation.data.model;
+package com.pechatkin.sbt.mytodo.data.model;
 
 import androidx.annotation.NonNull;
 

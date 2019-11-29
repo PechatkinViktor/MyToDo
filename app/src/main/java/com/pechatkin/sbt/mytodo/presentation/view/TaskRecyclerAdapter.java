@@ -10,7 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.pechatkin.sbt.mytodo.R;
-import com.pechatkin.sbt.mytodo.presentation.data.model.Task;
+import com.pechatkin.sbt.mytodo.data.model.Task;
 
 import java.util.List;
 

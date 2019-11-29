@@ -14,8 +14,8 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import com.pechatkin.sbt.mytodo.R;
-import com.pechatkin.sbt.mytodo.presentation.data.model.Task;
-import com.pechatkin.sbt.mytodo.presentation.data.repository.TaskRepository;
+import com.pechatkin.sbt.mytodo.data.model.Task;
+import com.pechatkin.sbt.mytodo.data.repository.TaskRepository;
 import com.pechatkin.sbt.mytodo.presentation.presenter.TaskPresenter;
 
 import java.util.List;

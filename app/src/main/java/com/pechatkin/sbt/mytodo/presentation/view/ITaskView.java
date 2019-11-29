@@ -2,7 +2,8 @@ package com.pechatkin.sbt.mytodo.presentation.view;
 
 import androidx.annotation.NonNull;
 
-import com.pechatkin.sbt.mytodo.presentation.data.model.Task;
+
+import com.pechatkin.sbt.mytodo.data.model.Task;
 
 import java.util.List;
 

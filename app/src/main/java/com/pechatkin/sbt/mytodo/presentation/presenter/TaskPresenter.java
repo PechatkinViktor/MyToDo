@@ -2,8 +2,8 @@ package com.pechatkin.sbt.mytodo.presentation.presenter;
 
 import androidx.annotation.NonNull;
 
-import com.pechatkin.sbt.mytodo.presentation.data.model.Task;
-import com.pechatkin.sbt.mytodo.presentation.data.repository.TaskRepository;
+import com.pechatkin.sbt.mytodo.data.model.Task;
+import com.pechatkin.sbt.mytodo.data.repository.TaskRepository;
 import com.pechatkin.sbt.mytodo.presentation.view.ITaskView;
 
 import java.lang.ref.WeakReference;

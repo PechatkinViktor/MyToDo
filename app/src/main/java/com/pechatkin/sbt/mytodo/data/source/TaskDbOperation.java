@@ -1,4 +1,4 @@
-package com.pechatkin.sbt.mytodo.presentation.data.source;
+package com.pechatkin.sbt.mytodo.data.source;
 
 public enum TaskDbOperation {
     INSERT,

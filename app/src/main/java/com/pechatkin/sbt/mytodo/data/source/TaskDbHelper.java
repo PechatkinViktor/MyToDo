@@ -1,4 +1,4 @@
-package com.pechatkin.sbt.mytodo.presentation.data.source;
+package com.pechatkin.sbt.mytodo.data.source;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -8,7 +8,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 import androidx.annotation.Nullable;
 
-import com.pechatkin.sbt.mytodo.presentation.data.model.Task;
+import com.pechatkin.sbt.mytodo.data.model.Task;
 
 import java.util.ArrayList;
 import java.util.List;

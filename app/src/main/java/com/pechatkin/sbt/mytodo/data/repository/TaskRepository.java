@@ -1,4 +1,4 @@
-package com.pechatkin.sbt.mytodo.presentation.data.repository;
+package com.pechatkin.sbt.mytodo.data.repository;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -6,9 +6,9 @@ import android.os.AsyncTask;
 
 import androidx.annotation.NonNull;
 
-import com.pechatkin.sbt.mytodo.presentation.data.model.Task;
-import com.pechatkin.sbt.mytodo.presentation.data.source.TaskDbHelper;
-import com.pechatkin.sbt.mytodo.presentation.data.source.TaskDbOperation;
+import com.pechatkin.sbt.mytodo.data.model.Task;
+import com.pechatkin.sbt.mytodo.data.source.TaskDbHelper;
+import com.pechatkin.sbt.mytodo.data.source.TaskDbOperation;
 
 import java.util.List;
 
